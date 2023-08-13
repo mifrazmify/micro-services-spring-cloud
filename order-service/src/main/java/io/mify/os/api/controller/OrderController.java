@@ -1,9 +1,7 @@
 package io.mify.os.api.controller;
 
-import io.mify.os.api.common.Payment;
 import io.mify.os.api.common.TransactionRequest;
 import io.mify.os.api.common.TransactionResponse;
-import io.mify.os.api.entity.Order;
 import io.mify.os.api.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
